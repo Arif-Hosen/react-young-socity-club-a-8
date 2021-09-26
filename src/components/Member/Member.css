@@ -1,0 +1,36 @@
+/* member cart style */
+
+.member{
+    color:darkslategrey;
+    text-align: center;
+    background-color: rgba(152, 251, 152, 0.616);
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px gray;
+}
+.member:hover{
+    border: 2px solid midnightblue;
+}
+.member img{
+text-align: center;
+    margin-top: 15px;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+
+.button-member{
+    color: white;
+    font-size: 15px;
+    background-color: midnightblue;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.icon{
+    margin-right: 20px;
+    color: black;
+    font-size: 30px;
+}

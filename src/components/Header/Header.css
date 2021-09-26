@@ -1,0 +1,22 @@
+/* style of header */
+.header{
+    text-align: center;
+}
+.header h1{
+    color:orangered;
+}
+.club-info{
+    background-color: midnightblue;
+    padding: 20px;
+    color: white;
+}
+.club-menu{
+    background-color: palegreen;
+}
+.club-menu nav a{
+text-decoration: none;
+margin-right: 45px;
+font-weight: 700;
+line-height: 50px;
+color: navy;
+}
